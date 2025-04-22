@@ -159,3 +159,35 @@ import java.util.ArrayList; // For creating dynamic lists
 import java.util.List; // For working with lists
 ```
 
+
+## 6. Screenshots collected
+
+<img width="944" alt="inputsearchItem_2024_12_12" src="https://github.com/user-attachments/assets/840ffabf-2b32-4f7f-a86f-5e323e448241" />
+
+
+<img width="949" alt="searchItem_2024_12_12" src="https://github.com/user-attachments/assets/f5fd56b8-5576-40c1-8947-bcd985b8d5e8" />
+
+
+![selectItem_2024_12_12](https://github.com/user-attachments/assets/166556ea-0568-4780-ba5f-21d980917f1a)
+
+
+<img width="929" alt="clickaddToCart_2024_12_12" src="https://github.com/user-attachments/assets/3661459f-41f8-4cef-b9d9-06243ebb8231" />
+
+
+![addToCart_2024_12_12](https://github.com/user-attachments/assets/c4ab4c3c-046b-4c84-9e37-78481533dcfc)
+
+
+<img width="946" alt="clickproceedToCheckout_2024_12_12" src="https://github.com/user-attachments/assets/b21f6365-30af-4899-9d87-36909a5e5752" />
+
+
+![proceedToCheckout_2024_12_12](https://github.com/user-attachments/assets/15843253-19c0-47a6-b866-0aac9709b2b5)
+
+
+<img width="748" alt="RunResult" src="https://github.com/user-attachments/assets/319e695e-d33c-48b1-baf6-ed398285b5e7" />
+
+
+
+
+
+
+
